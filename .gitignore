@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+code/ckpt/
+code/final_ckpt/
+code/logs/
+code/final_logs/
+data/*/
