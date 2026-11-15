@@ -1,5 +1,7 @@
 # FREQ
 
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 Official implementation of **Mitigating pair-frequency bias and qualifier-primary relation mismatch in inductive hyper-relational knowledge graph completion**, published in *Neurocomputing* (2026).
 
 📄 [Paper](https://doi.org/10.1016/j.neucom.2026.135254)
@@ -51,4 +53,8 @@ This implementation is based on [MAYPL](https://github.com/bdi-lab/maypl), the o
 
 ## License
 
-This project follows the upstream **CC BY-NC-SA 4.0** license. See `LICENSE.txt`.
+This project follows the upstream MAYPL license, **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International** (SPDX: `CC-BY-NC-SA-4.0`). See [LICENSE](LICENSE).
+
+## Author
+
+[Xinyu Chen](https://github.com/Aki894)
